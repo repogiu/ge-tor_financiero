@@ -1,0 +1,8 @@
+# ignore de netbeans
+/build/
+/dist/
+*.class
+/nbproject/private/
+*.log
+*.tmp
+
