@@ -1,4 +1,4 @@
-# GeStor Financiero (AppFinanzas)
+# Ge$tor Financiero (AppFinanzas)
 
 Aplicación en Java para registrar y consultar movimientos de dinero personales.
 
