@@ -1,0 +1,11 @@
+# Archivo de ejemplo para configuración de base de datos MySQL
+# Copia este archivo como db.properties y completa tus datos
+
+# URL de conexión JDBC: crea la base de datos como bd_finanzas
+db.url=jdbc:mysql://localhost:3306/bd_finanzas?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+
+# Usuario de la base de datos: cambia 'usuario' por tu usuario real
+db.user=usuario
+
+# Contraseña de la base de dato: cambia 'contraseña' por tu contraseña real
+db.password=contraseña
